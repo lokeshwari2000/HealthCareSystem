@@ -1,0 +1,5 @@
+use mydatabase;
+
+insert into Diagnostic_Center values('10','vijaya','uppal','987463721','vijaya@gmail.com');
+insert into Diagnostic_Center values('11','satya','himayathnagar','9837282891','satya@gmail.com');
+insert into Diagnostic_Center values into ('12'.'nirmal','attapur','8392728309','nirmal@gmail.com');
